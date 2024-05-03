@@ -36,6 +36,7 @@ Prepared for Intern Data Scientist Vacancy
 ![image](https://github.com/jamshid-ds/transcription_training/assets/117648241/11572572-00bb-4c5e-9ca9-46f06b9df4dd)
 
 <br>
+
 **Technologies which used**
 <br>
 
