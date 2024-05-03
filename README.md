@@ -20,3 +20,34 @@ Prepared for Intern Data Scientist Vacancy
     - Train the ASR model using the prepared dataset.
     - Evaluate the trained model using appropriate metrics to assess its performance.
 - **Result Sharing (Google Colab)**: Once you have trained your model, you can share your results using Google Colab. Google Colab provides a platform for running Python code in a Jupyter Notebook environment.
+<br>
+<br>
+<br>
+
+**Where did the data come from?**
+-https://commonvoice.mozilla.org/uz
+<br>
+<br>
+
+**Data**
+<br>
+<br>
+
+![image](https://github.com/jamshid-ds/transcription_training/assets/117648241/11572572-00bb-4c5e-9ca9-46f06b9df4dd)
+
+<br>
+**Technologies which used**
+<br>
+
+-Python
+<br>
+-Scikit Learn
+<br>
+-os
+<br>
+-pandas
+<br>
+-numpy
+<br>
+-librosa
+
